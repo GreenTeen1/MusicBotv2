@@ -1,0 +1,12 @@
+# Entry removed Thu May  3 21:45:10 2018
+# Reason: ERROR: rWpTr-vVT-0: YouTube said: This video is not available.
+https://youtube.com/watch?v=rWpTr-vVT-0
+
+################################
+
+# Entry removed Fri May  4 15:30:46 2018
+# Reason: ERROR: _lzwSBF2gIA: YouTube said: This video is not available.
+https://youtube.com/watch?v=_lzwSBF2gIA
+
+################################
+
